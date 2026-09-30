@@ -1,6 +1,6 @@
 # 8. Project Demonstration Phase
 
-### Demo Video Link: [Upload to Google Drive and paste link here]
+https://drive.google.com/file/d/1v9OhQRdNBH7w14pR8c0zE8iYA3zjYUmT/view?usp=sharing
 
 ### Demonstration Flow:
 1. Introduction - Project Name: LegalEase - AI Legal Document Generator
